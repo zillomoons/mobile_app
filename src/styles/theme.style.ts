@@ -1,0 +1,21 @@
+export default {
+  FONT_SIZE_SMALL: 12,
+  FONT_SIZE_MEDIUM: 16,
+  FONT_SIZE_LARGE: 20,
+  PRIMARY_COLOR: '#4bb843',
+  PRIMARY_BG: '#fff',
+  SECONDARY_BG: '#34495e',
+  ORANGE_COLOR: '#FECD70',
+  LIGHT_GREY: '#EFF5F5',
+  DARK_GREY: '#4D4D4D',
+  LIGHT_GREEN: '#DEF5E5',
+  MEDIUM_GREEN: '#59CE8F',
+  LINK_BLUE: '#2192FF',
+  SAGE: '#557153',
+  RED: '#e74c3c',
+}
+
+//green #2ecc71
+//orange #FFBC2C #FECD70
+//dark grey #4D4D4D
+//light grey #ECECEC  #EEEEEE #EFF5F5 
